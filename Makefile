@@ -1,9 +1,9 @@
 # SPDX-License-Identifier: GPL-2.0
-VERSION = 6
-PATCHLEVEL = 13
+VERSION = 1
+PATCHLEVEL = 0
 SUBLEVEL = 0
 EXTRAVERSION = -rc3
-NAME = Baby Opossum Posse
+NAME = GalaxyOS
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
